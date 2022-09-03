@@ -85,3 +85,6 @@ let resultado = g=="m" ?  ' é masculino' :  ' feminino';
 document.write(resultado);
 */
 
+let coisa;
+let variavel = coisa ?? "não há";
+document.write(variavel);

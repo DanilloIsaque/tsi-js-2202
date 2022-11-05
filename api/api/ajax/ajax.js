@@ -12,8 +12,13 @@ function recuperaConteudoAjax(){
 
         if(this.status == 200){
 
-            document.querySelector('#dadoRecuperado').innerHTML 
-                = this.responseText; 
+            //document.querySelector('#dadoRecuperado').innerHTML 
+                //= this.responseText; 
+             
+                let texto =JSON.parse(this.responseText); 
+
+                
+                console.log(texto);
         }
     }
 

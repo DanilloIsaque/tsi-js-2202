@@ -1,1 +1,25 @@
-olá, mundo!
+[{
+
+  "nome": "João Carlos",
+
+  "idade": 35
+
+},{
+
+  "nome": "Marcos",
+
+  "idade": 17
+
+},{
+
+  "nome": "Antonia",
+
+  "idade": 15
+
+},{
+
+  "nome": "Phelipe",
+
+  "idade": 52
+
+}]

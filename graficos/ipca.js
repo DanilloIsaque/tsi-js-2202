@@ -18,7 +18,7 @@ function recuperaDados(evento) {
         console.log(indice);
 
 
-        //fzr em casa colocar os dadosda pi no grafico
+        //fzr em casa colsocar os dadosda pi no grafico
 
 
                              //CRIANDO UM GRÁFICO DE LINHAS

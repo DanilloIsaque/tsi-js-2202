@@ -17,7 +17,7 @@ new Morris.Line({
     ],
     
     
-    //O nome do atributo de registro de dados que contém valores de x
+    //O nome do atributo dse registro de dados que contém valores de x
     xkey: 'year',
     
     // Uma lista de nomes de atributos de registro de dados que contêm valores y.
